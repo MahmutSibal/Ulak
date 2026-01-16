@@ -1,7 +1,7 @@
 # Ulak — Güvenli & Hızlı Aktarım
 
 <p align="center">
-	<img src="logo.png" width="96" alt="Ulak" />
+	<img src="logo.png" width="250" alt="Ulak" />
 </p>
 
 Ulak; **FastAPI backend + modern Web UI (Vite/React)** ve ayrıca opsiyonel **Flutter Windows masaüstü istemcisi** içeren, çoklu platform destekli güvenli dosya aktarım uygulaması.
