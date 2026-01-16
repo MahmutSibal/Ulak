@@ -25,7 +25,6 @@ Bu bölümdeki görseller [docs/images/](docs/images/) altından yüklenir.
 |---|---|---|
 | ![Settings](docs/images/Ekran-Alıntısı4.PNG) | ![Swagger](docs/images/Ekran-Alıntısı6.PNG) | ![Flutter Windows](docs/images/Ekran-Alıntısı5.PNG) |
 
-Not: Bu 6 görseli eklemek için dosyaları şu isimlerle [docs/images/README.md](docs/images/README.md) talimatına göre kaydedin.
 
 ## Hızlı Başlangıç (Windows)
 
