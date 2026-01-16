@@ -19,11 +19,11 @@ Bu bölümdeki görseller [docs/images/](docs/images/) altından yüklenir.
 
 | Web Dashboard | Web Dosya Ver | Web Dosya Al |
 |---|---|---|
-| ![Dashboard](docs/images/Ekran Alıntısı1.PNG) | ![Send](docs/images/Ekran Alıntısı2.PNG) | ![Receive](docs/images/Ekran Alıntısı3.PNG) |
+| ![Dashboard](docs/images/Ekran-Alıntısı1.PNG) | ![Send](docs/images/Ekran-Alıntısı2.PNG) | ![Receive](docs/images/Ekran-Alıntısı3.PNG) |
 
 | Web Ayarlar | Backend Swagger | Flutter Windows |
 |---|---|---|
-| ![Settings](docs/images/Ekran Alıntısı4.PNG) | ![Swagger](docs/images/Ekran Alıntısı6.PNG) | ![Flutter Windows](docs/images/Ekran Alıntısı5.PNG) |
+| ![Settings](docs/images/Ekran-Alıntısı4.PNG) | ![Swagger](docs/images/Ekran-Alıntısı6.PNG) | ![Flutter Windows](docs/images/Ekran-Alıntısı5.PNG) |
 
 Not: Bu 6 görseli eklemek için dosyaları şu isimlerle [docs/images/README.md](docs/images/README.md) talimatına göre kaydedin.
 
